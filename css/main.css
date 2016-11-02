@@ -5,15 +5,19 @@
   width: 100%;
   height: 65px;
   vertical-align: middle;
+  padding: 10px;
+}
+
+.nav-bar h3,
+.nav-bar p {
+  margin: 0;
 }
 
 .box {
-  margin-top: 100px ;
-  height: 250px;
-  width: 200px;
+  width: 30%;
+  margin: 0 1.04%;
 }
 
 .image-box img {
-  height: 200px;
-  width: auto;
+    width: 100%;
 }
