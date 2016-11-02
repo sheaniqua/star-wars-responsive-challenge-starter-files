@@ -1,0 +1,19 @@
+.nav-bar {
+  position: fixed;
+  color: black;
+  background-color: #f0ba2f;
+  width: 100%;
+  height: 65px;
+  vertical-align: middle;
+}
+
+.box {
+  margin-top: 100px ;
+  height: 250px;
+  width: 200px;
+}
+
+.image-box img {
+  height: 200px;
+  width: auto;
+}
