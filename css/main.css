@@ -1,4 +1,14 @@
-.nav-bar {
+nav {
+  background-color: #f0ba2f;
+  margin-bottom: 40px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+
+}
+nav .row {
   position: fixed;
   color: black;
   background-color: #f0ba2f;
@@ -8,14 +18,18 @@
   padding: 10px;
 }
 
-.nav-bar h3,
-.nav-bar p {
+nav h3 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+nav p {
+  margin-top: 0.5em;
   margin: 0;
 }
 
 .box {
-  width: 30%;
-  margin: 0 1.04%;
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
 }
 
 .image-box img {
